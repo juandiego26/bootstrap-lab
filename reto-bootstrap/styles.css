@@ -1,0 +1,19 @@
+ .container.one .row div {
+ background: lightgreen;
+ border: 1px solid white;
+ height: 50px;
+}
+.container.two .row div {
+  background: lightblue;
+  border: 1px solid white;
+  height: 50px;
+ }
+ .container.three .row div {
+   background: lightcoral;
+   border: 1px solid white;
+   height: 50px;
+  }
+
+h2 {
+  text-align: center;
+}
